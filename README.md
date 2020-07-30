@@ -1,6 +1,6 @@
-# Hello world! :wave:
+## Hello world! :wave:
 
-<img src="https://github.com/pas725/pas725/blob/master/github_header2.png" alt="Piyush Sagar">
+<img src="https://github.com/pas725/pas725/blob/master/github_header3.png" alt="Piyush Sagar">
 
 
 ## Find me around the web 🌎
@@ -8,7 +8,7 @@
 - <a href="https://in.linkedin.com/in/piyush-sagar-501a3966">LinkedIn</a> 💼
 - <a href="http://piyushsagar.herokuapp.com/">Website</a>
 
-Try <a href="https://github.com/pas725">recursion</a> 
+Try <a href="https://github.com/pas725">recursion</a> :sunglasses:
 
 <!--
 **pas725/pas725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
